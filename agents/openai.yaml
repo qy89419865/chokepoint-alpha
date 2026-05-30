@@ -1,0 +1,6 @@
+interface:
+  display_name: "Chokepoint Alpha"
+  short_description: "Traceable A/H-share chokepoint alpha"
+  default_prompt: "Use $chokepoint-alpha to screen A/H-share industrial chokepoint candidates and produce auditable thesis cards without investment recommendations."
+policy:
+  allow_implicit_invocation: true
